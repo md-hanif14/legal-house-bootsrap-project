@@ -1,0 +1,17 @@
+
+.containers {
+  text-align: center;
+  height: 500px;
+  background-image: url('/images/banner.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.containers-card{
+  max-width: 50%;
+  margin: auto;
+}
